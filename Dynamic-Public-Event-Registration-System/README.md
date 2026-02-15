@@ -1,4 +1,4 @@
-**Bellcorp Event Management System**
+# Bellcorp Event Management System
 
 The goal is to develop a full-stack platform where users can discover, view, and manage event registrations. The application to handle dynamic data fetching, user authentication, and state management efficiently, providing a seamless "Event Discovery Experience."
 
@@ -22,12 +22,14 @@ The goal is to develop a full-stack platform where users can discover, view, and
 
 A full-stack web application that streamlines public event registration and management.
 
+
 ### Core Functionality
 
 - **Event Planning & Organization** : Tools to manage the end-to-end lifecycle of events, including scheduling, agenda creation, and task tracking.
 - **User Management** : Secure, role-based access for organizers, attendees, and administrators.
 - **Registration & Ticketing** : Systems for online attendee registration, ticket sales, and check-in.
 - **Venue & Vendor Management** : Modules to search for, book, and manage venues, along with tracking vendor services.
+  
 
 ## 🔐 Admin Access (Demo Credentials)
 
@@ -37,10 +39,13 @@ This access is provided for testing, learning, and evaluation purposes.
 - **🔗 Deployment Link:** [`https://bellcorp-event-registration-system.onrender.com/`](https://bellcorp-event-registration-system.onrender.com/)
 - **👤 Username:** `12345Admin`
 - **🔑 Password:** `12345Admin`
+- 
 
-> 🛡️ Please note: This is a demo admin account with limited privileges.  
+> 🛡️ Please note: This is a demo admin account with limited privileges.
+
 
 ## ⚙️ Accessibility & Usage Notes
+
 
 - 🌓 **Dark Mode Recommended**: For optimal visual experience, please switch your system theme to **dark mode** or **light mode** based on your preference before using the application.
 
